@@ -1,0 +1,12 @@
+
+Stack vs Heap
+ 
+ Stack
+ - Stack Stores primitive types and object references.
+ - Stack removes data in a LIFO manner when data is no longer needed.
+ 
+ Heap
+ - Stores Objects.
+ - Global memory where data can be accessed from anywhere in the program.
+
+
