@@ -16,7 +16,8 @@ public class ArraysInJava {
     int numberThree = myNumbers[2];
     System.out.println(numberThree);
 
-    // Another way to create array
+    
+    // Another way to create array using new keyword:
     String [] familyMembers = new String[4];
     familyMembers[0] = "Mom";
     familyMembers[1] = "Dad";

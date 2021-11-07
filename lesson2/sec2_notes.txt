@@ -43,3 +43,18 @@ Protected	  Yes	            Yes	              Yes                       No
 Public	    Yes	            Yes	              Yes                     	Yes
 
 
+Access Modifiers on Methods
+ - We can also apply access modifiers to methods.
+
+    void methodName()  // The default is no access modifier
+    protected void methodName()
+    public void methodName()
+    private void methodName()
+    
+Access Modifiers on Variables
+ - We can apply access modifiers to variables as well! 
+
+  private int number;
+  int number3;  // Default is no access modifier
+  protected int number2;
+  public int number1;
