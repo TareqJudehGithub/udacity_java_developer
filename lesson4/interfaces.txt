@@ -1,0 +1,3 @@
+Interface
+ - Interfaces support decoupling and allow us to avoid hardcoding 
+ features in an application.

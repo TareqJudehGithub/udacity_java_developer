@@ -1,0 +1,8 @@
+Inheritance
+ - One class acquires properties and methods from another class.
+ - To avoid unnecessary duplications of variables.
+ - Super class (the parent class) or also known as the most general class.
+ - Subclass (the child) or also known as the more specific.
+ - All Subclasses objects will have the methods of the super class.
+ - Abstract classes, which cannot be directly instantiated themselves, but 
+   that allow us to define the behavior for each of the subclasses.

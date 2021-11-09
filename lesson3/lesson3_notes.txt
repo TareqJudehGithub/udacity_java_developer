@@ -17,9 +17,6 @@ What is an Object?
  We model software as objects to improve readability, maintainability and 
  reusability.
 
-
-
-
 Classes vs Objects
 
  - Classes are blue prints to create multiple objects.
@@ -30,31 +27,34 @@ Classes vs Objects
    defined in the class.
  - Let's take an example of a House class with the following attributes (state):
    - color, flooring,and countertops. 
-   - The house has 3 objects, each of these objects are instantiated from the 
+   - The House has 3 objects, each of these objects are instantiated from the 
      House class, and will all have the same state variables. 
    - Each object can be customized with unique variables, so these 3 houses can
      have different colors, flooring, or even countertops. 
 
-- Object of one type in Java can all have different state, but they all have the
+- Objects of one type in Java can all have different state, but they all have the
   behavior.
 
 - Annotation in Java
  - @Override
   - @Override provides additional meaning to the objects instantiated from the 
     class. If we don't use @Override and print out an object, we will not be 
-    to see it's variables, instead we will only see it's location in memory.
+    able to see it's variables, instead we will only see it's location in memory.
 
  Terms to remember
   - Instantiation: Creating instance(s) of the class.
   - Instances:  Objects created from a class (instances of the class).
   - To model:  to set a behavior of an object.
-  - this keyword refers to the object created and NOT the class.
+  - The 'this' keyword refers to the object created and NOT the class.
   - Methods A type of function used to model the behavior of the class.
-  - Class constructor: Used to initialize objects during instantiation.
-  - Instance and class variables: Used to provide state for the objects.
-  - Class variables or instances access should be set to private to support
-    data encapsulations (preventing access from outside the class).
   - class name: Used to identify not only the class itself, but also the 
     associated Java file.
+  - Instance and class variables: Used to provide state for the objects.
+  - Class constructor: Used to initialize objects during instantiation.
+  - Class variables (class instances) access should be set to private to 
+    support data encapsulations (preventing access from outside the class).
+  - Abstraction “displays” only the relevant attributes of objects and “hides” 
+    the unnecessary details. 
+  
   
 
