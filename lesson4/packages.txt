@@ -1,4 +1,6 @@
 Packages
  - Packages gives us a way to organize our code.
  - Packages allows us to identify which file we are referring to.
+ - Packages are essentially like folders you can use to organize your code and 
+   identify exactly which file (or class) you are referring to.
  

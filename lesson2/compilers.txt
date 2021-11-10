@@ -1,0 +1,20 @@
+Compilers
+ - A programming language can be understood by both humans and compilers.
+ - A compiler is a special program that converts a program written in a 
+   programming language into a series of machine codes." 
+ - A programmer usually writes a program in a programming language and then 
+   runs a compiler, which turns the program code files written by the programmer 
+   into a single file with machine code – the final (compiled) program.  
+   Program in C++  ==> Compiler  ==>  Machine code 
+ - A Java compiler doesn't compile all the classes into one machine-code program. 
+ - Java complier compiles every class independently  into a special intermediate 
+   code (bytecode).
+ - The bytecode is compiled into machine code when the program is started.
+ - Java virtual machine (JVM)  must be started first when you need to run a 
+   bytecode program.
+ - JVM will compile the bytecode into machine code before the program is 
+   executed.
+ - This approach allows programs written in Java to be run on virtually any 
+   device: computers, smartphones, ATMs, toasters, or even credit cards!
+ - JVM is the reason why all Android programs are also written in Java.
+ 

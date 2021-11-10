@@ -1,3 +1,7 @@
+- Java is case-sensitive.
+- in Java, 'functions' are also called 'methods'). A method is part of a class. 
+  In other words, a class is divided into methods and methods are divided into 
+  commands."
 
 - classes and packages as ways of organizing our code. 
     public class GettingStarted {
