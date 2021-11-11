@@ -1,10 +1,10 @@
 package code;
 
 /**
- * PlayGround
+ * Bus
  * @author Tareq Judeh
  */
-public class PlayGround {
+public class Bus {
   public static void main(String[] args){
     System.out.println("Let's practice Java!\n");
 
@@ -38,5 +38,4 @@ public class PlayGround {
     System.out.println(driver);
 
   }  
-
 }

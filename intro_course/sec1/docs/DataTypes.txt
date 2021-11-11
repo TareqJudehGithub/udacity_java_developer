@@ -1,3 +1,24 @@
 Data Types in Java
 
+ int   up to 2147483647
+ Long  between 2147483647*10000000
+
+- long can slow down programs.
+- both int and long can store negatives but not fractional.
+- double accepts fractional. Slows down programs.
+  - In division, one of the numbers at least should be typed as double, or the
+    result will return as an int
+     double division = 5/2.5;  => 2.5
+- String stores text values.
+  - When defining Strings, we need to use double quotes around the text, like 
+    this:
+    String name = "Adam";
+  - Single quotes are used for defining single characters, like this:
+    char grade = ’A’;
+    
+- char stores single letters.
+- boolean stores true or false values.
+
+
+
  
