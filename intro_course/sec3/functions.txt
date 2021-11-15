@@ -40,6 +40,10 @@ Functions
       - return
          return keyword is used to return a function result outside it's 
          function definition.
-      - We need to remove void if we need to use return keyword.
+      - We need to remove void if we need to use return keyword. For example
+        To return a String, the function needs a return type of String.
+          public static String(String username){
+            return "Hello" + username;
+          }
       - Replacing void with String type, returns a String value, and int returns
         an int value, and so forth.
